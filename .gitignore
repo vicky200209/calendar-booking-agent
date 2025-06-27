@@ -1,0 +1,5 @@
+# Ignore auth tokens and sensitive files
+credentials.json
+token.pkl
+__pycache__/
+*.pyc
